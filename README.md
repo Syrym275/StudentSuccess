@@ -1,7 +1,5 @@
 # StudentSuccess
 
-# Student Dropout Prediction — README
-
 ## Project Overview
 
 This project focuses on predicting student academic outcomes using machine learning. The dataset was taken from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success?utm_source=chatgpt.com) and contains information about students’ academic performance, demographic background, and financial status.
